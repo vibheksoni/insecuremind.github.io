@@ -1,7 +1,0 @@
-{
-    "title": "Exposing the Risks of Open Ollama APIs: Secure Your System Now",
-    "description": "Learn how the popular Ollama API service, used for running AI models locally, can be exposed to the internet if not secured. Discover the risks, how to identify vulnerabilities, and practical steps to protect your machine from unauthorized access.",
-    "tags": ["ollama apis", "api security", "exposed services", "securing local APIs", "AI model vulnerabilities", "network security", "developer tools", "resource protection"],
-    "created_at": "2025-01-23T18:47:26Z",
-    "category": "vulnerabilities"
-}

@@ -1,7 +1,0 @@
-{
-    "title": "Introduction to Website Bruteforcing: My First Tutorial Video",
-    "description": "Join me in my first-ever tutorial video where I demonstrate how to analyze website traffic using browser developer tools and recreate login requests using Python. Using Balenciaga's website as an example, learn the basics of inspecting network requests and building a simple bruteforce script.",
-    "tags": ["website security", "bruteforce", "python", "network analysis", "developer tools", "web security", "first video", "tutorial"],
-    "created_at": "2025-01-23T20:24:17Z",
-    "category": "tutorials"
-} 
